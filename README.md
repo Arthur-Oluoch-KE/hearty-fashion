@@ -2,6 +2,9 @@
 
 Hearty Fashion is a modern web application for crocheted-fashion enthusiasts, built with the latest web technologies.
 
+## Project Site Demo
+Link https://arthur-oluoch-ke.github.io/hearty-fashion/
+
 ## Features
 
 - Responsive and interactive UI
