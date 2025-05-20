@@ -59,7 +59,7 @@ function Products() {
         <div className="product-grid">
           {sortedProducts.map((product) => (
             <div key={product.id} className="product-card">
-              <img src={product.image} alt={product.name} />
+              <img src={product.image} alt={product.name} loading="lazy" />
               <h3 className="product-card-title">{product.name}</h3>
               <p className="product-card-category">{product.category}</p>
               <p className="product-card-price">Ksh.{product.price}</p>

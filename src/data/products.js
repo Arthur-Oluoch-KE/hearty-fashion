@@ -5,7 +5,7 @@ export const productsData = [
     category: 'Hats and Barrettes',
     price: 400,
     description: 'Warm and stylish hand-crocheted beanie.',
-    image: 'assets/beanie.jpg',
+    image: 'assets/beanie.webp',
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const productsData = [
     category: 'Hats and Barrettes',
     price: 600,
     description: 'Colorful berets for your stylish look.',
-    image: 'assets/beret.jpg',
+    image: 'assets/beret.webp',
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ export const productsData = [
     category: 'Bikinis',
     price: 1200,
     description: ' Stylish crochet bikini set for the baech.',
-    image: 'assets/bikini.jpg',
+    image: 'assets/bikini.webp',
   },
   {
     id: 7,
