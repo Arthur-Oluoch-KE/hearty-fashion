@@ -2,8 +2,12 @@ function Home() {
   return (
     <section id="home" className="section section-home">
       <div className="container">
-        <h2 className="section-home-title animate-welcome">Welcome to Hearty Fashion</h2>
-        <p className="section-home-text">Discover handcrafted crochet clothing with style and comfort.</p>
+        <h1 className="section-home-title animate-welcome">
+          Welcome to Hearty Fashion - Handmade Crochet Clothing
+        </h1>
+        <p className="section-home-text">
+          Discover our unique collection of sustainable crochet beanies, sweaters, and dresses, handmade with love.
+        </p>
       </div>
     </section>
   );

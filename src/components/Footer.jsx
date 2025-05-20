@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="footer">
+    <footer className="footer" role="contentinfo">
       <div className="container">
         <p className="footer-text">© 2025 Hearty Fashion. All rights reserved.</p>
       </div>

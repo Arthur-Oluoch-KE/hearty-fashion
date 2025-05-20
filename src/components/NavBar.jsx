@@ -8,10 +8,10 @@ function NavBar() {
   };
 
   return (
-    <nav className="nav">
+    <nav className="nav" role="navigation" aria-label="Main navigation">
       <div className="nav-container">
         <div className="nav-title">Hearty Fashion</div>
-        <button className="hamburger" onClick={toggleMenu} aria-label="Toggle menu">
+        <button className="hamburger" onClick={toggleMenu} aria-label="Toggle menu" aria-expanded={isMenuOpen}>
           <span className="hamburger-line"></span>
           <span className="hamburger-line"></span>
           <span className="hamburger-line"></span>
