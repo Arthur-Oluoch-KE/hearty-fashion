@@ -1,0 +1,3 @@
+User-agent: *
+    Allow: /
+    Sitemap: https://arthur-oluoch-ke.github.io/hearty-fashion/sitemap.xml
