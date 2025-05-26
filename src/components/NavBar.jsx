@@ -10,7 +10,7 @@ function NavBar() {
   return (
     <nav className="nav" role="navigation" aria-label="Main navigation">
       <div className="nav-container">
-        <div className="nav-title">Hearty Fashion</div>
+        <div className="nav-title">Harriet's Artistry</div>
         <button className="hamburger" onClick={toggleMenu} aria-label="Toggle menu" aria-expanded={isMenuOpen}>
           <span className="hamburger-line"></span>
           <span className="hamburger-line"></span>

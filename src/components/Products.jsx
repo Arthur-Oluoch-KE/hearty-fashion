@@ -28,7 +28,7 @@ function Products() {
   return (
     <>
       <Helmet>
-        <title>Hearty Fashion - Crochet Products</title>
+        <title>Harriet's Artistry - Crochet Products</title>
         <meta name="description" content="Browse our collection of handmade crochet beanies, sweaters, dresses, and more." />
       </Helmet>
       <section id="products" className="section section-products">
@@ -78,7 +78,7 @@ function Products() {
                     View Product
                   </button>
                   <a
-                    href={`https://wa.me/+254796915506?text=I'm%20interested%20in%20ordering%20the%20${encodeURIComponent(product.name)}`}
+                    href={`https://wa.me/+254745697327?text=I'm%20interested%20in%20ordering%20the%20${encodeURIComponent(product.name)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="button button-order"

@@ -1,9 +1,9 @@
 {
-     "name": "hearty-fashion",
+     "name": "Harriet's Artistry",
      "private": true,
      "version": "0.0.0",
      "type": "module",
-     "homepage": "https://Arthur-Oluoch-KE.github.io/hearty-fashion",
+     "homepage": "https://Arthur-Oluoch-KE.github.io/Harriet's Artistry",
      "scripts": {
           "dev": "vite",
           "build": "vite build",
